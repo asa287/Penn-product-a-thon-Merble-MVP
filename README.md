@@ -1,7 +1,9 @@
 # Penn-product-a-thon-Merble MVP
-This is a Minimum Viable Product for the Merble project in Product-a-thon at the University of Pennsylvania spring'26
+This is a Minimum Viable Product for the startup partner Merble, developed for the Product-a-thon at the University of Pennsylvania (Spring '26).
 
 1. Folder Structure
+
+```
 merble-project/
 ├── data/
 │   ├── raw_members.csv           # 原始 synthetic 数据
@@ -24,3 +26,4 @@ merble-project/
 ├── config.py                     # 参数配置（如阈值、API Key 等）
 ├── requirements.txt              # 环境依赖清单
 └── README.md                     # 项目说明文档
+```
